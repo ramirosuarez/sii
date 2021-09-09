@@ -1,0 +1,14 @@
+.bg-primary {
+    background-color: #1B396A !important;
+}
+.table-dark {
+    --bs-table-bg: #1B396A !important;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
